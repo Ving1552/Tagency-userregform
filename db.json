@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "username": "gvineeth1552",
+      "email": "vineethg1552@gmail.com",
+      "password": "123",
+      "confirmPassword": "123",
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "country": "India",
+      "id": 1
+    }
+  ]
+}
